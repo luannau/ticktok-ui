@@ -1,5 +1,5 @@
 function HeaderUpload() {
-  return <h2>HeaderUpload</h2>;
+  return <h2>Header Upload</h2>;
 }
 
 export default HeaderUpload;
